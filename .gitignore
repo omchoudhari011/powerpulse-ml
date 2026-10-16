@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+artifacts/*/
+outputs/*
+!outputs/.gitkeep
+!artifacts/.gitkeep
+data/*.csv
+!data/dummy_building.csv
